@@ -1,37 +1,130 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DongPuPu/gengxiaonian/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DongPuPu/gengxiaonian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        <html>
+        <head>
+        <title>点进来</title>
+        </head>
+        <body>
+        <script>
+        alert("你怎么打开了这个网站啊")
+	alert("你进来之后说明什么")
+	alert("说明耿晓念把你给坑了")
+	alert("哈哈哈哈")
+	alert("没想到吧")
+	alert("继续点吧，快到头了")
+	alert("在你出去之前先说好你不能打我")
+	alert("真的不能打我昂")
+	alert("再等等马上放你出去")
+	alert("无聊吗")
+	alert("要不我给你讲个故事吧")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("从前有座山")
+	alert("山里有个庙")
+	alert("庙里有个老和尚给个小和尚讲故事")
+	alert("故事里讲的什么呢？")
+	alert("唉唉唉，你别打我啊")
+	alert("行吧马上放你出去")
+	alert("不过你得先承认耿晓念比你好看")
+	alert("什么你不承认")
+	alert("那你就别想出去了")
+	alert("继续听我在这给你讲故事吧")
+	alert("承不承认")
+	alert("承不承认")
+	alert("你不承认也没关系")
+	alert("反正这也是现实")
+	alert("对是现实")
+	alert("所以你面对现实吧")
+	alert("等一下你出来会不会打我啊")
+	alert("emmmmm")
+	alert("等你出来你可不能打我昂")
+	alert("不能昂")
+	alert("真的不能昂")
+	alert("也不能骂我昂")
+        </script>
+        </body>
+        </html>
